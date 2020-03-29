@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrcticePKMN", "PrcticePKMN\PrcticePKMN.csproj", "{49F3800D-C783-4327-AC35-2A4C23FEFDEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49F3800D-C783-4327-AC35-2A4C23FEFDEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49F3800D-C783-4327-AC35-2A4C23FEFDEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49F3800D-C783-4327-AC35-2A4C23FEFDEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49F3800D-C783-4327-AC35-2A4C23FEFDEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70C81C90-7909-4F39-A664-E48EDAF41F9A}
+	EndGlobalSection
+EndGlobal
